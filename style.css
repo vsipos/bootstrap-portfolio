@@ -1,0 +1,47 @@
+body {
+    background: url("marble.jpg");
+}
+
+.nav-link {
+    color: grey;
+}
+
+.jumbotron {
+    padding: 250px; 
+    background: white;
+    margin: 50px 10px;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: right; 
+}
+
+.footer {
+    background: grey;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+
+}
+
+.footer-text {
+    color: white;
+}
+
+.thumbnail {
+    margin: 20px;
+}
+
+.row {
+    background: white;
+    margin: 40px;
+}
+
+.col-md-6 {
+    object-fit: scale-down;
+}
+
+.caption {
+    text-align: center;
+}
